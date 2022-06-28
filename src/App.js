@@ -39,7 +39,6 @@ export default function App() {
       >
         Dec By 10
       </button>
-     
     </div>
   );
 }
